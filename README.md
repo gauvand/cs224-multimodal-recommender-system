@@ -5,4 +5,4 @@ Recent studies have underscored the importance of multi-modal data in enhancing 
 1) The first one is the dataset: since there are few public datasets that contain such comprehensive information on the multiple modalities from different sources, we may need to integrate multiple publicly available datasets from each of these modalities on our own by using some matching techniques between the datasets. 
 2) The second challenge is the approach to choose to fuse these multi-modal embeddings and integrate them into a comprehensive GNN framework. 
 
-Please review our Medium article to see how we tackled these challenges: <placeholder>
+Please review our Medium article to see how we tackled these challenges: [PLACEHOLDER]
